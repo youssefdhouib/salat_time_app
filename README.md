@@ -39,7 +39,7 @@ This project includes the following features:
 - Responsive design: Works well on various screen sizes.
 - Interactive elements: Engaging user experience.
 - Modern UI: Sleek and visually appealing design.
-- the usage of EMAIL.JS to send emails.
+- the usage of MATERIAL UI.
 
 ## Screenshots
 
