@@ -15,13 +15,14 @@ Step-by-step instructions on how to install and set up the project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/youssefdhouib/cercina_company_landing-page.git
+git clone https://github.com/youssefdhouib/salat_time_app.git
 
 # Navigate to the project directory
-cd cercina_company_landing-page
+cd salat_time_app
 
 # Install dependencies
 npm install
+
 ```
 ## Usage
 
